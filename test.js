@@ -1,8 +1,10 @@
 const { function2 } = require("./service/service2");
-
+const { function1 } = require("./service/service1");
 function2()
+function1()
 console.log("test.js run")
 /*
+import service
 Base code
 First bug fixed
 Second bug fixed
