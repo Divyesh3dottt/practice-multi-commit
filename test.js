@@ -1,6 +1,8 @@
 const { function1 } = require("./service/service1");
+const { function2 } = require("./service/service2");
 
 function1()
+function2()
 /*
 Base code
 First bug fixed
