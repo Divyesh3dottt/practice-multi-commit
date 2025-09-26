@@ -1,4 +1,9 @@
+const { function1 } = require("./service/service1");
+
+function1()
+console.log("test.js run")
 /*
+import service
 Base code
 First bug fixed
 Second bug fixed
