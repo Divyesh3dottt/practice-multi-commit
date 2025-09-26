@@ -4,4 +4,6 @@ First bug fixed
 Second bug fixed
 Third but fixed
 Fifth bug fixed666111
+
+multiple commit in single push
 */
