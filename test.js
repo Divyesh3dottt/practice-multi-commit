@@ -1,3 +1,7 @@
+const { function2 } = require("./service/service2");
+
+function2()
+console.log("test.js run")
 /*
 Base code
 First bug fixed
