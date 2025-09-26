@@ -1,3 +1,6 @@
+const { function1 } = require("./service/service1");
+
+function1()
 /*
 Base code
 First bug fixed
